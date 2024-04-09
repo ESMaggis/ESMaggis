@@ -2,8 +2,6 @@
 
 ## I`m begginer QA Engeneer
 
-Latest YouTube video
-
 ## Languages and Tools:
 
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman)
